@@ -1,7 +1,8 @@
 // Config singelton
 
 const config = {
-	proxy: process.env.PROXY || "http://localhost:9050/"
+	proxy: process.env.PROXY || "http://localhost:9050/",
+	port: process.env.PORT || 8080
 };
 
 module.exports = {
