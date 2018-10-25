@@ -4,7 +4,7 @@
     },
     "extends": "eslint:recommended",
     "parserOptions": {
-        "ecmaVersion": 5
+        "ecmaVersion": 6
     },
     "rules": {
         "indent": [
@@ -22,6 +22,7 @@
         "semi": [
             "error",
             "always"
-        ]
+        ],
+        "no-console": 0
     }
 }
