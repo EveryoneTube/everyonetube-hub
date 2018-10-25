@@ -6,5 +6,8 @@
   "repository": "git@github.com:EveryoneTube/everyonetube-hub.git",
   "author": "nemanjan00 <nemanjan00@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
