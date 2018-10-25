@@ -1,0 +1,10 @@
+{
+  "name": "everyonetube-hub",
+  "version": "0.0.0",
+  "description": "EveryoneTube hub is node for anonymization of subscriptions. ",
+  "main": "index.js",
+  "repository": "git@github.com:EveryoneTube/everyonetube-hub.git",
+  "author": "nemanjan00 <nemanjan00@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
